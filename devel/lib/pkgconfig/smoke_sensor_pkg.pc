@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/devel
+
+Name: smoke_sensor_pkg
+Description: Description of smoke_sensor_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

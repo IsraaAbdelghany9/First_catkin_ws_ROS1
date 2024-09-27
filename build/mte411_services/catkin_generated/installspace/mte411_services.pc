@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/install
+
+Name: mte411_services
+Description: Description of mte411_services
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

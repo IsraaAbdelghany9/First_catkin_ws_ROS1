@@ -1,0 +1,2 @@
+set(final_israa_MESSAGE_FILES "")
+set(final_israa_SERVICE_FILES "/home/israa/catkin_ws/src/final_israa/srv/Encoder2.srv")

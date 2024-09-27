@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/devel
+
+Name: consumer
+Description: Description of consumer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/install
+
+Name: producer
+Description: Description of producer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

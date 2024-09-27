@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/install
+
+Name: letter_i
+Description: Description of letter_i
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

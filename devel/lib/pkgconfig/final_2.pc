@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ws/devel
+
+Name: final_2
+Description: Description of final_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
